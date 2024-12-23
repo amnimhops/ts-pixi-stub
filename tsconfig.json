@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true,
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "sourceMap": true,
+        // paths solo en caso de que haya que configurar carpetas de código compartidas
+        /*"paths": {
+            "@shared/*": [
+                "../shared/src/*"
+            ]
+        }*/
+    }
+}

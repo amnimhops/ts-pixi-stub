@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "ts-pixi-stub",
+  "version": "1.0.0",
+  "description": "An empty sample project which demonstrates how to develop a typescript game using PIXI and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnimhops/ts-pixi-stub.git"
+  },
+  "author": "amnimhops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amnimhops/ts-pixi-stub/issues"
+  },
+  "homepage": "https://github.com/amnimhops/ts-pixi-stub#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "pixi.js": "^8.6.6",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
